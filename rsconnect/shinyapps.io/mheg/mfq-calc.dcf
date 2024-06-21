@@ -1,0 +1,12 @@
+name: mfq-calc
+title: mfq-score
+username: mheg
+account: mheg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12073194
+bundleId: 8662015
+url: https://mheg.shinyapps.io/mfq-calc/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
