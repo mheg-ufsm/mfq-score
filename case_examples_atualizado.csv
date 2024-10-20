@@ -1,0 +1,57 @@
+disorder,low_coff,high_coff,pre_test_prob,likelihood_ratio,likelihood_ratio_low,likelihood_ratio_high
+Qualquer transtorno,35,39,24.16,5.9,4.36,7.97
+Qualquer transtorno,40,44,24.16,5.9,4.36,7.97
+Qualquer transtorno,45,49,24.16,0.46,0.34,0.62
+Qualquer transtorno,50,54,24.16,0.75,0.58,0.95
+Qualquer transtorno,55,59,24.16,1.74,1.4,2.18
+Qualquer transtorno,60,64,24.16,5.15,3.74,7.1
+Qualquer transtorno,65,69,24.16,15.87,7.91,31.81
+Qualquer transtorno,70,80,24.16,29.32,10.62,81
+Qualquer transtorno internalizante,35,39,18.99,0.09,0.05,0.17
+Qualquer transtorno internalizante,40,44,18.99,0.18,0.09,0.36
+Qualquer transtorno internalizante,45,49,18.99,0.43,0.31,0.61
+Qualquer transtorno internalizante,50,54,18.99,0.67,0.51,0.89
+Qualquer transtorno internalizante,55,59,18.99,1.55,1.23,1.96
+Qualquer transtorno internalizante,60,64,18.99,5.05,3.72,6.86
+Qualquer transtorno internalizante,65,69,18.99,18.32,9.43,35.59
+Qualquer transtorno internalizante,70,80,18.99,29.98,11.99,75
+Depressão,35,39,12.79,1.67,0.94,2.96
+Depressão,40,44,12.79,1.67,0.94,2.96
+Depressão,45,49,12.79,0.42,0.28,0.63
+Depressão,50,54,12.79,0.54,0.38,0.77
+Depressão,55,59,12.79,1.58,1.23,02.04
+Depressão,60,64,12.79,3.71,2.76,4.99
+Depressão,65,69,12.79,10.14,6.17,16.65
+Depressão,70,80,12.79,12.01,6.07,21.84
+Ansiedade Generalizada,35,39,05.01,0.53,0.17,1.59
+Ansiedade Generalizada,40,44,05.01,0.53,0.17,1.59
+Ansiedade Generalizada,45,49,05.01,0.47,0.24,0.91
+Ansiedade Generalizada,50,54,05.01,0.5,0.27,0.94
+Ansiedade Generalizada,55,59,05.01,0.95,0.58,1.56
+Ansiedade Generalizada,60,64,05.01,3.81,2.68,5.42
+Ansiedade Generalizada,65,69,05.01,6.92,4.23,11.31
+Ansiedade Generalizada,70,80,05.01,4.72,2.5,8.92
+Ansiedade Social,35,39,2.76,0.18,0.03,1.21
+Ansiedade Social,40,44,2.76,0.18,0.03,1.21
+Ansiedade Social,45,49,2.76,0.43,0.16,1.1
+Ansiedade Social,50,54,2.76,0.61,0.29,1.31
+Ansiedade Social,55,59,2.76,1.05,0.9,2.48
+Ansiedade Social,60,64,2.76,3.42,2.17 ,5.39
+Ansiedade Social,65,69,2.76,4.98,2.61,9.51
+Ansiedade Social,70,80,2.76,2.07,1.01,7.21
+Pânico/Agorafobia,35,39,5.68,0.52,0.17,1.57
+Pânico/Agorafobia,40,44,5.68,0.52,0.17,1.57
+Pânico/Agorafobia,45,49,5.68,0.2 ,0.08,0.52
+Pânico/Agorafobia,50,54,5.68,0.79,0.5,1.25
+Pânico/Agorafobia,55,59,5.68,0.94,0.59,1.5
+Pânico/Agorafobia,60,64,5.68,3.57,2.52,5.06
+Pânico/Agorafobia,65,69,5.68,6.88,4.25,11.12
+Pânico/Agorafobia,70,80,5.68,6.78,3.87,11.88
+TEPT,35,39,2.1,0.33,0.08,1.27
+TEPT,40,44,2.1,0.33,0.08,1.27
+TEPT,45,49,2.1,0.67,0.29,1.53
+TEPT,50,54,2.1,0.38,0.13,1.14
+TEPT,55,59,2.1,0.76,0.33,1.74
+TEPT,60,64,2.1,1.89,0.94,3.77
+TEPT,65,69,2.1,7.91,4.48,13.98
+TEPT,70,80,2.1,7.4,3.71,14.74
